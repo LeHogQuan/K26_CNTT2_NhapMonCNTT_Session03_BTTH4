@@ -1,0 +1,10 @@
+Phần 1: phân tích
+- Ram làm việc rất nhanh khi ko bị đầy
+
+- Khi ram đầy thì nó sẽ lấy 1 phân dung lượng từ SSD hoặc HDD để dùng ( hiện tượng swap file) 
+
+- Khi Ram dùng phần dung lượng từ SSD thì sẽ bị lag 
+
+Phần 2:
+
+D:\\Windows\\System32\\code-cua-toi
